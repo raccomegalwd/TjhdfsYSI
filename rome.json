@@ -9,8 +9,6 @@
       "suspicious": {
         "noEmptyInterface": "off",
         "noExplicitAny": "off",
-        "noArrayIndexKey": "off",
-        "noDoubleEquals": "off"
       },
       "style": {
         "noNonNullAssertion": "off",
